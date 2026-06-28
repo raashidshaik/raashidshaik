@@ -28,6 +28,19 @@ I specialize in transforming raw datasets into clean dashboards, automated pipel
 
 ---
 
+## 💼 Experience
+
+**Data Analyst (Freelance)** — Self-employed via Contra  
+*June 2025 – Present · Remote*  
+- Delivering data analysis, reporting, and visualization solutions for clients across various domains
+
+**Data Science Intern** — Verzeo EduTech  
+*June 2021 – August 2021 · Remote*  
+- Built and evaluated ML models using Python (Pandas, NumPy, Scikit-learn) on real-world datasets
+- Performed EDA and presented data-driven insights to stakeholders
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages & Querying**
